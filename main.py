@@ -13,8 +13,8 @@ while True:
     main_seleccion = int(input("por favor ingresa la opcion seleccionada: "))
     if main_seleccion == 1:
         import inventario
-    elif main_seleccion == 2:
-        import ingresos
+    """elif main_seleccion == 2:
+        import ingresos"""
     elif main_seleccion ==3:
         import arreglos
     elif main_seleccion == 4:
